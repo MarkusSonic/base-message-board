@@ -1,5 +1,4 @@
-# Base Message Board
-
+> Verified smart contract deployed on Base Mainnet with real user interactions.
 A simple on-chain message board deployed on Base Mainnet.
 
 ## Contract Details
