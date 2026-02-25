@@ -24,4 +24,4 @@ It emits an event for every message posted.
 
 ## Deployment Transaction
 
-(Insert Basescan link here)
+https://basescan.org/tx/0x10130e443155270a71f7ce8b40f0517e48b4ae26ea62889f5f2edffc55e1abaa
