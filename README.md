@@ -3,6 +3,10 @@ A simple on-chain message board deployed on Base Mainnet.
 
 ## Contract Details
 
+## Developer
+Developer ENS: serkanza.eth  
+Deployed and maintained by an onchain Base builder.
+
 - Network: Base Mainnet
 - Solidity Version: 0.8.31
 - Verified on Basescan
