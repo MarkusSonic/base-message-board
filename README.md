@@ -73,3 +73,11 @@ Users can:
 ⏰ Timestamp each message
 
 🔎 Read all messages publicly
+
+Contract Details
+
+Network: Base Mainnet
+
+Language: Solidity
+
+Standard: Ethereum-compatible
