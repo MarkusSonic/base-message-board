@@ -24,3 +24,27 @@
 ---
 
 This project is actively maintained as part of on-chain builder development on Base.
+🗺 Roadmap
+✅ Phase 1
+
+Deploy message board contract
+
+Store messages on-chain
+
+Public read function
+
+🔄 Phase 2
+
+Add message indexing
+
+Optimize gas usage
+
+Add event logging
+
+🚀 Phase 3
+
+Frontend integration
+
+ENS-based usernames
+
+UI deployment on Base ecosystem
