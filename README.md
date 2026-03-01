@@ -64,3 +64,12 @@ This project was built to:
 ## Author
 
 Developed and deployed on Base Mainnet as part of on-chain builder activity.
+Users can:
+
+📝 Post messages on-chain
+
+👤 Store sender address
+
+⏰ Timestamp each message
+
+🔎 Read all messages publicly
